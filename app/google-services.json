@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "374735860586",
+    "firebase_url": "https://etaxi-a8ab5.firebaseio.com",
+    "project_id": "etaxi-a8ab5",
+    "storage_bucket": "etaxi-a8ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374735860586:android:18d5ccc7aea64f82",
+        "android_client_info": {
+          "package_name": "com.family.ghost.etaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374735860586-hmvjk445j26ae1uk0fvg880h6j6ohcpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.family.ghost.etaxi",
+            "certificate_hash": "94e8a932dc7cfffe36c08a67f2a9f4b9584082fc"
+          }
+        },
+        {
+          "client_id": "374735860586-fq9d5uu4qtef3gen5bm01qi8r0f6s6qf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "374735860586-fq9d5uu4qtef3gen5bm01qi8r0f6s6qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvkt32NEkxgGGm6-koxP9Zps40cjY90v4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374735860586-fq9d5uu4qtef3gen5bm01qi8r0f6s6qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
